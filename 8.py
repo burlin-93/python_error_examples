@@ -5,4 +5,5 @@ def main(a):
         print("Переданное число больше 5")
 
 if __name__ == "__main__":
-    main
+    main(2)
+    main(7)

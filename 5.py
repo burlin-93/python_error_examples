@@ -1,5 +1,5 @@
 def main():
-    a = input("Введите число: ")
+    a = int(input("Введите число: "))
     return a + 5
 
 if __name__ == "__main__":

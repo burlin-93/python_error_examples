@@ -1,4 +1,4 @@
-def main():
+def main(a):
     if a < 5:
         print("Переданное число меньше 5")
     else:
